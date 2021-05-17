@@ -1,0 +1,759 @@
+Istra 1961, 2048, https://apiv2.apifootball.com/badges/2048_istra-1961.png, 110
+Belupo, 2052, https://apiv2.apifootball.com/badges/2052_belupo.png, 110
+Hajduk Split, 2053, https://apiv2.apifootball.com/badges/2053_hajduk-split.png, 110
+Osijek, 2054, https://apiv2.apifootball.com/badges/2054_osijek.png, 110
+Lok. Zagreb, 2055, https://apiv2.apifootball.com/badges/2055_lok.-zagreb.png, 110
+D. Zagreb, 2056, https://apiv2.apifootball.com/badges/2056_d.-zagreb.png, 110
+Rijeka, 2057, https://apiv2.apifootball.com/badges/2057_rijeka.png, 110
+Sibenik, 2058, https://apiv2.apifootball.com/badges/2058_sibenik.png, 110
+Gorica, 2065, https://apiv2.apifootball.com/badges/2065_gorica.png, 110
+Varazdin, 2068, https://apiv2.apifootball.com/badges/2068_varazdin.png, 110
+Grobina, 4535, https://apiv2.apifootball.com/badges/4535_grobina.png, 9673
+Rezekne, 4550, https://apiv2.apifootball.com/badges/4550_rezekne.png, 9673
+Alberts (Lat), 10638, https://apiv2.apifootball.com/badges/10638_alberts-(lat).png, 9673
+Super Nova, 11066, https://apiv2.apifootball.com/badges/11066_super-nova.png, 9673
+Auda, 11067, https://apiv2.apifootball.com/badges/11067_auda.png, 9673
+FK Smiltene, 11069, https://apiv2.apifootball.com/badges/11069_fk-smiltene.png, 9673
+Riga/Staicele, 14657, https://apiv2.apifootball.com/badges/14657_riga-staicele.png, 9673
+Lokomotiv Daugavpils, 18237, https://apiv2.apifootball.com/badges/18237_lokomotiv-daugavpils.png, 9673
+Saldus SS/Leevon, 18252, https://apiv2.apifootball.com/badges/18252_saldus-ss-leevon.png, 9673
+Sparta Prague, 2162, https://apiv2.apifootball.com/badges/2162_sparta-prague.png, 120
+Ostrava, 2163, https://apiv2.apifootball.com/badges/2163_ostrava.png, 120
+Slovacko, 2164, https://apiv2.apifootball.com/badges/2164_slovacko.png, 120
+Slavia Prague, 2165, https://apiv2.apifootball.com/badges/2165_slavia-prague.png, 120
+Mlada Boleslav, 2166, https://apiv2.apifootball.com/badges/2166_mlada-boleslav.png, 120
+Bohemians 1905, 2168, https://apiv2.apifootball.com/badges/2168_bohemians-1905.png, 120
+Zlin, 2169, https://apiv2.apifootball.com/badges/2169_zlin.png, 120
+Brno, 2170, https://apiv2.apifootball.com/badges/2170_brno.png, 120
+Liberec, 2172, https://apiv2.apifootball.com/badges/2172_liberec.png, 120
+Jablonec, 2173, https://apiv2.apifootball.com/badges/2173_jablonec.png, 120
+Sigma Olomouc, 2174, https://apiv2.apifootball.com/badges/2174_sigma-olomouc.png, 120
+Teplice, 2175, https://apiv2.apifootball.com/badges/2175_teplice.png, 120
+Karvina, 2176, https://apiv2.apifootball.com/badges/2176_karvina.png, 120
+Plzen, 2177, https://apiv2.apifootball.com/badges/2177_plzen.png, 120
+Pribram, 2179, https://apiv2.apifootball.com/badges/2179_pribram.png, 120
+Opava, 2180, https://apiv2.apifootball.com/badges/2180_opava.png, 120
+Ceske Budejovice, 2183, https://apiv2.apifootball.com/badges/2183_ceske-budejovice.png, 120
+FK Pardubice, 2184, https://apiv2.apifootball.com/badges/2184_fk-pardubice.png, 120
+Suduva, 4574, https://apiv2.apifootball.com/badges/4574_suduva.png, 306
+Trakai, 4577, https://apiv2.apifootball.com/badges/4577_trakai.png, 306
+Banga, 4663, https://apiv2.apifootball.com/badges/4663_banga.png, 306
+Zalgiris, 4665, https://apiv2.apifootball.com/badges/4665_zalgiris.png, 306
+Kauno Zalgiris, 4666, https://apiv2.apifootball.com/badges/4666_kauno-zalgiris.png, 306
+FK Panevezys, 4667, https://apiv2.apifootball.com/badges/4667_fk-panevezys.png, 306
+Dainava Alytus, 4668, https://apiv2.apifootball.com/badges/4668_dainava-alytus.png, 306
+Dziugas Telsiai, 4670, https://apiv2.apifootball.com/badges/4670_dziugas-telsiai.png, 306
+Nevezis Kedainiai, 4679, https://apiv2.apifootball.com/badges/4679_nevezis-kedainiai.png, 306
+Hegelmann Litauen, 4688, https://apiv2.apifootball.com/badges/4688_hegelmann-litauen.png, 306
+AIK, 7262, https://apiv2.apifootball.com/badges/7262_aik.png, 481
+Goteborg, 7263, https://apiv2.apifootball.com/badges/7263_goteborg.png, 481
+Norrkoping, 7264, https://apiv2.apifootball.com/badges/7264_norrkoping.png, 481
+Orebro, 7265, https://apiv2.apifootball.com/badges/7265_orebro.png, 481
+Djurgarden, 7266, https://apiv2.apifootball.com/badges/7266_djurgarden.png, 481
+Hacken, 7268, https://apiv2.apifootball.com/badges/7268_hacken.png, 481
+Kalmar, 7269, https://apiv2.apifootball.com/badges/7269_kalmar.png, 481
+Sirius, 7270, https://apiv2.apifootball.com/badges/7270_sirius.png, 481
+Malmo FF, 7271, https://apiv2.apifootball.com/badges/7271_malmo-ff.png, 481
+Hammarby, 7273, https://apiv2.apifootball.com/badges/7273_hammarby.png, 481
+Halmstad, 7274, https://apiv2.apifootball.com/badges/7274_halmstad.png, 481
+Ostersunds, 7276, https://apiv2.apifootball.com/badges/7276_ostersunds.png, 481
+Elfsborg, 7277, https://apiv2.apifootball.com/badges/7277_elfsborg.png, 481
+Degerfors, 7285, https://apiv2.apifootball.com/badges/7285_degerfors.png, 481
+Varbergs, 7288, https://apiv2.apifootball.com/badges/7288_varbergs.png, 481
+Mjallby, 7310, https://apiv2.apifootball.com/badges/7310_mjallby.png, 481
+Stuttgart, 3221, https://apiv2.apifootball.com/badges/3221_stuttgart.png, 195
+Freiburg, 3222, https://apiv2.apifootball.com/badges/3222_freiburg.png, 195
+Werder Bremen, 3223, https://apiv2.apifootball.com/badges/3223_werder-bremen.png, 195
+Augsburg, 3224, https://apiv2.apifootball.com/badges/3224_augsburg.png, 195
+Bayern Munich, 3225, https://apiv2.apifootball.com/badges/3225_bayern-munich.png, 195
+RB Leipzig, 3226, https://apiv2.apifootball.com/badges/3226_rb-leipzig.png, 195
+Bayer Leverkusen, 3227, https://apiv2.apifootball.com/badges/3227_bayer-leverkusen.png, 195
+FC Koln, 3228, https://apiv2.apifootball.com/badges/3228_fc-koln.png, 195
+Dortmund, 3230, https://apiv2.apifootball.com/badges/3230_dortmund.png, 195
+Hertha Berlin, 3231, https://apiv2.apifootball.com/badges/3231_hertha-berlin.png, 195
+Hoffenheim, 3233, https://apiv2.apifootball.com/badges/3233_hoffenheim.png, 195
+B. Monchengladbach, 3234, https://apiv2.apifootball.com/badges/3234_b.-monchengladbach.png, 195
+Schalke, 3235, https://apiv2.apifootball.com/badges/3235_schalke.png, 195
+Wolfsburg, 3236, https://apiv2.apifootball.com/badges/3236_wolfsburg.png, 195
+Mainz, 3237, https://apiv2.apifootball.com/badges/3237_mainz.png, 195
+Eintracht Frankfurt, 3238, https://apiv2.apifootball.com/badges/3238_eintracht-frankfurt.png, 195
+Union Berlin, 3242, https://apiv2.apifootball.com/badges/3242_union-berlin.png, 195
+Arminia Bielefeld, 3251, https://apiv2.apifootball.com/badges/3251_arminia-bielefeld.png, 195
+Salzburg, 930, https://apiv2.apifootball.com/badges/930_salzburg.png, 589
+Rapid Vienna, 932, https://apiv2.apifootball.com/badges/932_rapid-vienna.png, 589
+Qarabag, 1018, https://apiv2.apifootball.com/badges/1018_qarabag.png, 589
+Brest, 1055, https://apiv2.apifootball.com/badges/1055_brest.png, 589
+Club Brugge KV, 1107, https://apiv2.apifootball.com/badges/1107_club-brugge-kv.png, 589
+Gent, 1118, https://apiv2.apifootball.com/badges/1118_gent.png, 589
+Omonia, 2141, https://apiv2.apifootball.com/badges/2141_omonia.png, 589
+Midtjylland, 2336, https://apiv2.apifootball.com/badges/2336_midtjylland.png, 589
+Chelsea, 2616, https://apiv2.apifootball.com/badges/2616_chelsea.png, 589
+Liverpool, 2621, https://apiv2.apifootball.com/badges/2621_liverpool.png, 589
+Manchester City, 2626, https://apiv2.apifootball.com/badges/2626_manchester-city.png, 589
+Manchester United, 2627, https://apiv2.apifootball.com/badges/2627_manchester-united.png, 589
+Marseille, 3023, https://apiv2.apifootball.com/badges/3023_marseille.png, 589
+Rennes, 3035, https://apiv2.apifootball.com/badges/3035_rennes.png, 589
+Paris SG, 3040, https://apiv2.apifootball.com/badges/3040_paris-sg.png, 589
+PAOK, 3423, https://apiv2.apifootball.com/badges/3423_paok.png, 589
+Olympiakos Piraeus, 3434, https://apiv2.apifootball.com/badges/3434_olympiakos-piraeus.png, 589
+Ferencvaros, 3652, https://apiv2.apifootball.com/badges/3652_ferencvaros.png, 589
+Maccabi Tel Aviv, 4137, https://apiv2.apifootball.com/badges/4137_maccabi-tel-aviv.png, 589
+Atalanta, 4181, https://apiv2.apifootball.com/badges/4181_atalanta.png, 589
+Lazio, 4183, https://apiv2.apifootball.com/badges/4183_lazio.png, 589
+Juventus, 4187, https://apiv2.apifootball.com/badges/4187_juventus.png, 589
+Inter, 4189, https://apiv2.apifootball.com/badges/4189_inter.png, 589
+AZ Alkmaar, 5079, https://apiv2.apifootball.com/badges/5079_az-alkmaar.png, 589
+Ajax, 5087, https://apiv2.apifootball.com/badges/5087_ajax.png, 589
+Molde, 5371, https://apiv2.apifootball.com/badges/5371_molde.png, 589
+FC Porto, 6112, https://apiv2.apifootball.com/badges/6112_fc-porto.png, 589
+Benfica, 6119, https://apiv2.apifootball.com/badges/6119_benfica.png, 589
+Krasnodar, 6416, https://apiv2.apifootball.com/badges/6416_krasnodar.png, 589
+Zenit Petersburg, 6418, https://apiv2.apifootball.com/badges/6418_zenit-petersburg.png, 589
+Lokomotiv Moscow, 6419, https://apiv2.apifootball.com/badges/6419_lokomotiv-moscow.png, 589
+FK Crvena zvezda (Srb), 6690, https://apiv2.apifootball.com/badges/6690_fk-crvena-zvezda-(srb).png, 589
+Real Madrid, 7099, https://apiv2.apifootball.com/badges/7099_real-madrid.png, 589
+Sevilla, 7102, https://apiv2.apifootball.com/badges/7102_sevilla.png, 589
+Barcelona, 7105, https://apiv2.apifootball.com/badges/7105_barcelona.png, 589
+Atl. Madrid, 7106, https://apiv2.apifootball.com/badges/7106_atl.-madrid.png, 589
+Young Boys, 7396, https://apiv2.apifootball.com/badges/7396_young-boys.png, 589
+Basaksehir, 7615, https://apiv2.apifootball.com/badges/7615_basaksehir.png, 589
+Dyn. Kiev, 7767, https://apiv2.apifootball.com/badges/7767_dyn.-kiev.png, 589
+Shakhtar Donetsk, 7774, https://apiv2.apifootball.com/badges/7774_shakhtar-donetsk.png, 589
+St. Polten W, 1005, https://apiv2.apifootball.com/badges/1005_st.-polten-w.png, 8817
+PSV W, 5165, https://apiv2.apifootball.com/badges/5165_psv-w.png, 8817
+Ajax W, 5171, https://apiv2.apifootball.com/badges/5171_ajax-w.png, 8817
+Zurich W, 7468, https://apiv2.apifootball.com/badges/7468_zurich-w.png, 8817
+Bayern Munich W, 9372, https://apiv2.apifootball.com/badges/9372_bayern-munich-w.png, 8817
+Goteborg W, 9393, https://apiv2.apifootball.com/badges/9393_goteborg-w.png, 8817
+Lyon W, 9408, https://apiv2.apifootball.com/badges/9408_lyon-w.png, 8817
+Paris SG W, 9409, https://apiv2.apifootball.com/badges/9409_paris-sg-w.png, 8817
+Wolfsburg W, 9436, https://apiv2.apifootball.com/badges/9436_wolfsburg-w.png, 8817
+Valerenga W, 9458, https://apiv2.apifootball.com/badges/9458_valerenga-w.png, 8817
+LSK Kvinner W, 9459, https://apiv2.apifootball.com/badges/9459_lsk-kvinner-w.png, 8817
+Barcelona W, 9460, https://apiv2.apifootball.com/badges/9460_barcelona-w.png, 8817
+Atletico Madrid W, 9463, https://apiv2.apifootball.com/badges/9463_atletico-madrid-w.png, 8817
+Rosengard W, 9465, https://apiv2.apifootball.com/badges/9465_rosengard-w.png, 8817
+Shymkent W, 9510, https://apiv2.apifootball.com/badges/9510_shymkent-w.png, 8817
+Sparta Prague W, 9513, https://apiv2.apifootball.com/badges/9513_sparta-prague-w.png, 8817
+Fiorentina W, 9514, https://apiv2.apifootball.com/badges/9514_fiorentina-w.png, 8817
+Chelsea W, 9515, https://apiv2.apifootball.com/badges/9515_chelsea-w.png, 8817
+Manchester City W, 9518, https://apiv2.apifootball.com/badges/9518_manchester-city-w.png, 8817
+Slavia Prague W, 9520, https://apiv2.apifootball.com/badges/9520_slavia-prague-w.png, 8817
+Fortuna Hjorring W, 9832, https://apiv2.apifootball.com/badges/9832_fortuna-hjorring-w.png, 8817
+Brondby W, 9835, https://apiv2.apifootball.com/badges/9835_brondby-w.png, 8817
+Juventus W, 10758, https://apiv2.apifootball.com/badges/10758_juventus-w.png, 8817
+Glasgow City W (Sco), 11838, https://apiv2.apifootball.com/badges/11838_glasgow-city-w-(sco).png, 8817
+Minsk FK W (Blr), 11840, https://apiv2.apifootball.com/badges/11840_minsk-fk-w-(blr).png, 8817
+Leczna W (Pol), 11848, https://apiv2.apifootball.com/badges/11848_leczna-w-(pol).png, 8817
+Subotica W (Srb), 11852, https://apiv2.apifootball.com/badges/11852_subotica-w-(srb).png, 8817
+Servette Geneve FC W, 12063, https://apiv2.apifootball.com/badges/12063_servette-geneve-fc-w.png, 8817
+Pomurje W (Slo), 15121, https://apiv2.apifootball.com/badges/15121_pomurje-w-(slo).png, 8817
+Benfica W, 16434, https://apiv2.apifootball.com/badges/16434_benfica-w.png, 8817
+Guria L. W (Geo), 19186, https://apiv2.apifootball.com/badges/19186_guria-l.-w-(geo).png, 8817
+Zhilstroy-2 W (Ukr), 19188, https://apiv2.apifootball.com/badges/19188_zhilstroy-2-w-(ukr).png, 8817
+TNS, 6653, https://apiv2.apifootball.com/badges/6653_tns.png, 551
+Connahs Q., 6659, https://apiv2.apifootball.com/badges/6659_connahs-q..png, 551
+Barry, 8089, https://apiv2.apifootball.com/badges/8089_barry.png, 551
+Bala, 8091, https://apiv2.apifootball.com/badges/8091_bala.png, 551
+Newtown, 8093, https://apiv2.apifootball.com/badges/8093_newtown.png, 551
+Aberystwyth, 8095, https://apiv2.apifootball.com/badges/8095_aberystwyth.png, 551
+Cardiff Metropolitan, 8096, https://apiv2.apifootball.com/badges/8096_cardiff-metropolitan.png, 551
+Druids, 8098, https://apiv2.apifootball.com/badges/8098_druids.png, 551
+Haverfordwest, 8101, https://apiv2.apifootball.com/badges/8101_haverfordwest.png, 551
+Penybont, 8105, https://apiv2.apifootball.com/badges/8105_penybont.png, 551
+Caernarfon, 8115, https://apiv2.apifootball.com/badges/8115_caernarfon.png, 551
+Flint, 8122, https://apiv2.apifootball.com/badges/8122_flint.png, 551
+Milsami, 4937, https://apiv2.apifootball.com/badges/4937_milsami.png, 331
+Dinamo-Auto, 4938, https://apiv2.apifootball.com/badges/4938_dinamo-auto.png, 331
+Speranta Nisporeni, 4939, https://apiv2.apifootball.com/badges/4939_speranta-nisporeni.png, 331
+Petrocub, 4940, https://apiv2.apifootball.com/badges/4940_petrocub.png, 331
+Sheriff Tiraspol, 4943, https://apiv2.apifootball.com/badges/4943_sheriff-tiraspol.png, 331
+Sfintul, 4944, https://apiv2.apifootball.com/badges/4944_sfintul.png, 331
+Zimbru Chisinau, 4946, https://apiv2.apifootball.com/badges/4946_zimbru-chisinau.png, 331
+Codru Lozova, 4958, https://apiv2.apifootball.com/badges/4958_codru-lozova.png, 331
+Floresti, 10956, https://apiv2.apifootball.com/badges/10956_floresti.png, 331
+CSCA Buiucani, 10957, https://apiv2.apifootball.com/badges/10957_csca-buiucani.png, 331
+Lechia Gdansk, 5944, https://apiv2.apifootball.com/badges/5944_lechia-gdansk.png, 381
+Legia, 5946, https://apiv2.apifootball.com/badges/5946_legia.png, 381
+Jagiellonia, 5948, https://apiv2.apifootball.com/badges/5948_jagiellonia.png, 381
+Zaglebie, 5949, https://apiv2.apifootball.com/badges/5949_zaglebie.png, 381
+Gornik Z., 5951, https://apiv2.apifootball.com/badges/5951_gornik-z..png, 381
+Cracovia, 5952, https://apiv2.apifootball.com/badges/5952_cracovia.png, 381
+Piast Gliwice, 5954, https://apiv2.apifootball.com/badges/5954_piast-gliwice.png, 381
+Plock, 5955, https://apiv2.apifootball.com/badges/5955_plock.png, 381
+Lech Poznan, 5956, https://apiv2.apifootball.com/badges/5956_lech-poznan.png, 381
+Wisla, 5957, https://apiv2.apifootball.com/badges/5957_wisla.png, 381
+Slask Wroclaw, 5958, https://apiv2.apifootball.com/badges/5958_slask-wroclaw.png, 381
+Pogon Szczecin, 5959, https://apiv2.apifootball.com/badges/5959_pogon-szczecin.png, 381
+Stal Mielec, 5965, https://apiv2.apifootball.com/badges/5965_stal-mielec.png, 381
+Rakow, 5967, https://apiv2.apifootball.com/badges/5967_rakow.png, 381
+Podbeskidzie, 5974, https://apiv2.apifootball.com/badges/5974_podbeskidzie.png, 381
+Warta Poznan, 5979, https://apiv2.apifootball.com/badges/5979_warta-poznan.png, 381
+Lillestrom, 5368, https://apiv2.apifootball.com/badges/5368_lillestrom.png, 359
+Valerenga, 5370, https://apiv2.apifootball.com/badges/5370_valerenga.png, 359
+Kristiansund, 5372, https://apiv2.apifootball.com/badges/5372_kristiansund.png, 359
+Odd, 5373, https://apiv2.apifootball.com/badges/5373_odd.png, 359
+Rosenborg, 5374, https://apiv2.apifootball.com/badges/5374_rosenborg.png, 359
+Stabaek, 5375, https://apiv2.apifootball.com/badges/5375_stabaek.png, 359
+Sarpsborg 08, 5376, https://apiv2.apifootball.com/badges/5376_sarpsborg-08.png, 359
+Sandefjord, 5377, https://apiv2.apifootball.com/badges/5377_sandefjord.png, 359
+Stromsgodset, 5378, https://apiv2.apifootball.com/badges/5378_stromsgodset.png, 359
+Tromso, 5380, https://apiv2.apifootball.com/badges/5380_tromso.png, 359
+Viking, 5381, https://apiv2.apifootball.com/badges/5381_viking.png, 359
+Haugesund, 5382, https://apiv2.apifootball.com/badges/5382_haugesund.png, 359
+Brann, 5383, https://apiv2.apifootball.com/badges/5383_brann.png, 359
+Bodo/Glimt, 5441, https://apiv2.apifootball.com/badges/5441_bodo-glimt.png, 359
+Mjondalen, 5445, https://apiv2.apifootball.com/badges/5445_mjondalen.png, 359
+Heerenveen, 5078, https://apiv2.apifootball.com/badges/5078_heerenveen.png, 343
+Sparta Rotterdam, 5080, https://apiv2.apifootball.com/badges/5080_sparta-rotterdam.png, 343
+Groningen, 5081, https://apiv2.apifootball.com/badges/5081_groningen.png, 343
+Utrecht, 5082, https://apiv2.apifootball.com/badges/5082_utrecht.png, 343
+Breda, 5083, https://apiv2.apifootball.com/badges/5083_breda.png, 343
+Vitesse, 5084, https://apiv2.apifootball.com/badges/5084_vitesse.png, 343
+PSV, 5085, https://apiv2.apifootball.com/badges/5085_psv.png, 343
+Willem II, 5086, https://apiv2.apifootball.com/badges/5086_willem-ii.png, 343
+Zwolle, 5088, https://apiv2.apifootball.com/badges/5088_zwolle.png, 343
+Den Haag, 5089, https://apiv2.apifootball.com/badges/5089_den-haag.png, 343
+Heracles, 5090, https://apiv2.apifootball.com/badges/5090_heracles.png, 343
+Venlo, 5091, https://apiv2.apifootball.com/badges/5091_venlo.png, 343
+Roda, 5092, https://apiv2.apifootball.com/badges/5092_roda.png, 343
+Feyenoord, 5093, https://apiv2.apifootball.com/badges/5093_feyenoord.png, 343
+Twente, 5094, https://apiv2.apifootball.com/badges/5094_twente.png, 343
+Volendam, 5097, https://apiv2.apifootball.com/badges/5097_volendam.png, 343
+Almere City, 5099, https://apiv2.apifootball.com/badges/5099_almere-city.png, 343
+FC Emmen, 5106, https://apiv2.apifootball.com/badges/5106_fc-emmen.png, 343
+Graafschap, 5110, https://apiv2.apifootball.com/badges/5110_graafschap.png, 343
+Sittard, 5111, https://apiv2.apifootball.com/badges/5111_sittard.png, 343
+Nijmegen, 5112, https://apiv2.apifootball.com/badges/5112_nijmegen.png, 343
+Waalwijk, 5114, https://apiv2.apifootball.com/badges/5114_waalwijk.png, 343
+Belgium, 8310, https://apiv2.apifootball.com/badges/8310_belgium.png, 588
+Cyprus, 8311, https://apiv2.apifootball.com/badges/8311_cyprus.png, 588
+Estonia, 8312, https://apiv2.apifootball.com/badges/8312_estonia.png, 588
+Bosnia & Herzegovina, 8313, https://apiv2.apifootball.com/badges/8313_bosnia-&-herzegovina.png, 588
+France, 8314, https://apiv2.apifootball.com/badges/8314_france.png, 588
+Belarus, 8315, https://apiv2.apifootball.com/badges/8315_belarus.png, 588
+Greece, 8316, https://apiv2.apifootball.com/badges/8316_greece.png, 588
+Gibraltar, 8317, https://apiv2.apifootball.com/badges/8317_gibraltar.png, 588
+Hungary, 8318, https://apiv2.apifootball.com/badges/8318_hungary.png, 588
+Faroe Islands, 8319, https://apiv2.apifootball.com/badges/8319_faroe-islands.png, 588
+Latvia, 8320, https://apiv2.apifootball.com/badges/8320_latvia.png, 588
+Andorra, 8321, https://apiv2.apifootball.com/badges/8321_andorra.png, 588
+Luxembourg, 8322, https://apiv2.apifootball.com/badges/8322_luxembourg.png, 588
+Bulgaria, 8323, https://apiv2.apifootball.com/badges/8323_bulgaria.png, 588
+Netherlands, 8324, https://apiv2.apifootball.com/badges/8324_netherlands.png, 588
+Sweden, 8325, https://apiv2.apifootball.com/badges/8325_sweden.png, 588
+Portugal, 8326, https://apiv2.apifootball.com/badges/8326_portugal.png, 588
+Switzerland, 8327, https://apiv2.apifootball.com/badges/8327_switzerland.png, 588
+Albania, 8330, https://apiv2.apifootball.com/badges/8330_albania.png, 588
+Italy, 8331, https://apiv2.apifootball.com/badges/8331_italy.png, 588
+Finland, 8332, https://apiv2.apifootball.com/badges/8332_finland.png, 588
+Turkey, 8333, https://apiv2.apifootball.com/badges/8333_turkey.png, 588
+FYR Macedonia, 8334, https://apiv2.apifootball.com/badges/8334_fyr-macedonia.png, 588
+Liechtenstein, 8335, https://apiv2.apifootball.com/badges/8335_liechtenstein.png, 588
+Iceland, 8336, https://apiv2.apifootball.com/badges/8336_iceland.png, 588
+Kosovo, 8337, https://apiv2.apifootball.com/badges/8337_kosovo.png, 588
+Israel, 8338, https://apiv2.apifootball.com/badges/8338_israel.png, 588
+Spain, 8339, https://apiv2.apifootball.com/badges/8339_spain.png, 588
+Moldova, 8340, https://apiv2.apifootball.com/badges/8340_moldova.png, 588
+Austria, 8341, https://apiv2.apifootball.com/badges/8341_austria.png, 588
+Serbia, 8342, https://apiv2.apifootball.com/badges/8342_serbia.png, 588
+Georgia, 8343, https://apiv2.apifootball.com/badges/8343_georgia.png, 588
+Ukraine, 8344, https://apiv2.apifootball.com/badges/8344_ukraine.png, 588
+Croatia, 8345, https://apiv2.apifootball.com/badges/8345_croatia.png, 588
+Wales, 8346, https://apiv2.apifootball.com/badges/8346_wales.png, 588
+Ireland, 8347, https://apiv2.apifootball.com/badges/8347_ireland.png, 588
+Czech Republic, 8348, https://apiv2.apifootball.com/badges/8348_czech-republic.png, 588
+San Marino, 8349, https://apiv2.apifootball.com/badges/8349_san-marino.png, 588
+Germany, 8350, https://apiv2.apifootball.com/badges/8350_germany.png, 588
+Azerbaijan, 8351, https://apiv2.apifootball.com/badges/8351_azerbaijan.png, 588
+Norway, 8352, https://apiv2.apifootball.com/badges/8352_norway.png, 588
+Northern Ireland, 8353, https://apiv2.apifootball.com/badges/8353_northern-ireland.png, 588
+Denmark, 8354, https://apiv2.apifootball.com/badges/8354_denmark.png, 588
+Romania, 8355, https://apiv2.apifootball.com/badges/8355_romania.png, 588
+Kazakhstan, 8356, https://apiv2.apifootball.com/badges/8356_kazakhstan.png, 588
+Armenia, 8357, https://apiv2.apifootball.com/badges/8357_armenia.png, 588
+Lithuania, 8358, https://apiv2.apifootball.com/badges/8358_lithuania.png, 588
+England, 8359, https://apiv2.apifootball.com/badges/8359_england.png, 588
+Poland, 8360, https://apiv2.apifootball.com/badges/8360_poland.png, 588
+Montenegro, 8361, https://apiv2.apifootball.com/badges/8361_montenegro.png, 588
+Slovakia, 8362, https://apiv2.apifootball.com/badges/8362_slovakia.png, 588
+Malta, 8363, https://apiv2.apifootball.com/badges/8363_malta.png, 588
+Slovenia, 8364, https://apiv2.apifootball.com/badges/8364_slovenia.png, 588
+Scotland, 8365, https://apiv2.apifootball.com/badges/8365_scotland.png, 588
+Russia, 8698, https://apiv2.apifootball.com/badges/8698_russia.png, 588
+Laci, 3, https://apiv2.apifootball.com/badges/3_laci.png, 590
+Kukesi, 7, https://apiv2.apifootball.com/badges/7_kukesi.png, 590
+Teuta, 12, https://apiv2.apifootball.com/badges/12_teuta.png, 590
+KF Tirana, 22, https://apiv2.apifootball.com/badges/22_kf-tirana.png, 590
+Inter Club Escaldes, 107, https://apiv2.apifootball.com/badges/107_inter-club-escaldes.png, 590
+Avan Academy, 704, https://apiv2.apifootball.com/badges/704_avan-academy.png, 590
+AC Wolfsberger, 924, https://apiv2.apifootball.com/badges/924_ac-wolfsberger.png, 590
+LASK Linz, 926, https://apiv2.apifootball.com/badges/926_lask-linz.png, 590
+Hartberg, 940, https://apiv2.apifootball.com/badges/940_hartberg.png, 590
+Neftci Baku, 1012, https://apiv2.apifootball.com/badges/1012_neftci-baku.png, 590
+BATE, 1061, https://apiv2.apifootball.com/badges/1061_bate.png, 590
+Antwerp, 1104, https://apiv2.apifootball.com/badges/1104_antwerp.png, 590
+St. Liege, 1105, https://apiv2.apifootball.com/badges/1105_st.-liege.png, 590
+Charleroi, 1117, https://apiv2.apifootball.com/badges/1117_charleroi.png, 590
+FK Sarajevo, 1454, https://apiv2.apifootball.com/badges/1454_fk-sarajevo.png, 590
+Zrinjski, 1457, https://apiv2.apifootball.com/badges/1457_zrinjski.png, 590
+Borac Banja Luka (Bih), 1458, https://apiv2.apifootball.com/badges/1458_borac-banja-luka-(bih).png, 590
+Ludogorets, 1669, https://apiv2.apifootball.com/badges/1669_ludogorets.png, 590
+CSKA-Sofia, 1673, https://apiv2.apifootball.com/badges/1673_cska-sofia.png, 590
+Lok. Plovdiv, 1680, https://apiv2.apifootball.com/badges/1680_lok.-plovdiv.png, 590
+Apollon, 2133, https://apiv2.apifootball.com/badges/2133_apollon.png, 590
+APOEL, 2140, https://apiv2.apifootball.com/badges/2140_apoel.png, 590
+Anorthosis, 2142, https://apiv2.apifootball.com/badges/2142_anorthosis.png, 590
+FC Copenhagen, 2334, https://apiv2.apifootball.com/badges/2334_fc-copenhagen.png, 590
+Sonderjyske, 2337, https://apiv2.apifootball.com/badges/2337_sonderjyske.png, 590
+Aarhus, 2341, https://apiv2.apifootball.com/badges/2341_aarhus.png, 590
+Leicester, 2611, https://apiv2.apifootball.com/badges/2611_leicester.png, 590
+Arsenal, 2617, https://apiv2.apifootball.com/badges/2617_arsenal.png, 590
+Tottenham, 2628, https://apiv2.apifootball.com/badges/2628_tottenham.png, 590
+Flora, 2831, https://apiv2.apifootball.com/badges/2831_flora.png, 590
+B36 Torshavn, 2931, https://apiv2.apifootball.com/badges/2931_b36-torshavn.png, 590
+Klaksvik, 2934, https://apiv2.apifootball.com/badges/2934_klaksvik.png, 590
+KuPS, 2955, https://apiv2.apifootball.com/badges/2955_kups.png, 590
+Lille, 3022, https://apiv2.apifootball.com/badges/3022_lille.png, 590
+Nice, 3041, https://apiv2.apifootball.com/badges/3041_nice.png, 590
+Reims, 3046, https://apiv2.apifootball.com/badges/3046_reims.png, 590
+Shkendija, 3146, https://apiv2.apifootball.com/badges/3146_shkendija.png, 590
+Sileks, 3149, https://apiv2.apifootball.com/badges/3149_sileks.png, 590
+Renova, 3151, https://apiv2.apifootball.com/badges/3151_renova.png, 590
+Lokomotiv Tbilisi, 3191, https://apiv2.apifootball.com/badges/3191_lokomotiv-tbilisi.png, 590
+Dinamo Tbilisi, 3194, https://apiv2.apifootball.com/badges/3194_dinamo-tbilisi.png, 590
+Europa FC, 3416, https://apiv2.apifootball.com/badges/3416_europa-fc.png, 590
+Lincoln Red Imps, 3419, https://apiv2.apifootball.com/badges/3419_lincoln-red-imps.png, 590
+AEK Athens FC, 3426, https://apiv2.apifootball.com/badges/3426_aek-athens-fc.png, 590
+OFI Crete, 3446, https://apiv2.apifootball.com/badges/3446_ofi-crete.png, 590
+Aris, 3455, https://apiv2.apifootball.com/badges/3455_aris.png, 590
+Honved, 3646, https://apiv2.apifootball.com/badges/3646_honved.png, 590
+Videoton, 3654, https://apiv2.apifootball.com/badges/3654_videoton.png, 590
+KR Reykjavik, 3789, https://apiv2.apifootball.com/badges/3789_kr-reykjavik.png, 590
+Dundalk, 4086, https://apiv2.apifootball.com/badges/4086_dundalk.png, 590
+Shamrock Rovers, 4087, https://apiv2.apifootball.com/badges/4087_shamrock-rovers.png, 590
+H. Beer Sheva, 4146, https://apiv2.apifootball.com/badges/4146_h.-beer-sheva.png, 590
+Maccabi Haifa, 4148, https://apiv2.apifootball.com/badges/4148_maccabi-haifa.png, 590
+Napoli, 4174, https://apiv2.apifootball.com/badges/4174_napoli.png, 590
+AS Roma, 4184, https://apiv2.apifootball.com/badges/4184_as-roma.png, 590
+AC Milan, 4186, https://apiv2.apifootball.com/badges/4186_ac-milan.png, 590
+FC Astana, 4454, https://apiv2.apifootball.com/badges/4454_fc-astana.png, 590
+K. Almaty, 4455, https://apiv2.apifootball.com/badges/4455_k.-almaty.png, 590
+Kaisar Kyzylorda, 4457, https://apiv2.apifootball.com/badges/4457_kaisar-kyzylorda.png, 590
+Drita, 4491, https://apiv2.apifootball.com/badges/4491_drita.png, 590
+Riga FC, 4528, https://apiv2.apifootball.com/badges/4528_riga-fc.png, 590
+Ventspils, 4534, https://apiv2.apifootball.com/badges/4534_ventspils.png, 590
+Fola, 4700, https://apiv2.apifootball.com/badges/4700_fola.png, 590
+Niedercorn, 4704, https://apiv2.apifootball.com/badges/4704_niedercorn.png, 590
+Union Titus Petange, 4709, https://apiv2.apifootball.com/badges/4709_union-titus-petange.png, 590
+Floriana, 4850, https://apiv2.apifootball.com/badges/4850_floriana.png, 590
+Hibernians, 4852, https://apiv2.apifootball.com/badges/4852_hibernians.png, 590
+Buducnost, 4969, https://apiv2.apifootball.com/badges/4969_buducnost.png, 590
+Coleraine, 5225, https://apiv2.apifootball.com/badges/5225_coleraine.png, 590
+Linfield, 5229, https://apiv2.apifootball.com/badges/5229_linfield.png, 590
+Braga, 6109, https://apiv2.apifootball.com/badges/6109_braga.png, 590
+Rio Ave, 6117, https://apiv2.apifootball.com/badges/6117_rio-ave.png, 590
+Sporting, 6118, https://apiv2.apifootball.com/badges/6118_sporting.png, 590
+FC Botosani, 6303, https://apiv2.apifootball.com/badges/6303_fc-botosani.png, 590
+FCSB, 6305, https://apiv2.apifootball.com/badges/6305_fcsb.png, 590
+CFR Cluj, 6306, https://apiv2.apifootball.com/badges/6306_cfr-cluj.png, 590
+Dynamo Moscow, 6420, https://apiv2.apifootball.com/badges/6420_dynamo-moscow.png, 590
+FK Rostov, 6424, https://apiv2.apifootball.com/badges/6424_fk-rostov.png, 590
+CSKA Moscow, 6427, https://apiv2.apifootball.com/badges/6427_cska-moscow.png, 590
+Tre Fiori, 6556, https://apiv2.apifootball.com/badges/6556_tre-fiori.png, 590
+Aberdeen, 6578, https://apiv2.apifootball.com/badges/6578_aberdeen.png, 590
+Celtic, 6580, https://apiv2.apifootball.com/badges/6580_celtic.png, 590
+Motherwell, 6584, https://apiv2.apifootball.com/badges/6584_motherwell.png, 590
+Rangers, 6589, https://apiv2.apifootball.com/badges/6589_rangers.png, 590
+Partizan, 6678, https://apiv2.apifootball.com/badges/6678_partizan.png, 590
+Vojvodina, 6692, https://apiv2.apifootball.com/badges/6692_vojvodina.png, 590
+Backa Topola, 6702, https://apiv2.apifootball.com/badges/6702_backa-topola.png, 590
+Dun. Streda, 6743, https://apiv2.apifootball.com/badges/6743_dun.-streda.png, 590
+Slovan Bratislava, 6748, https://apiv2.apifootball.com/badges/6748_slovan-bratislava.png, 590
+NK Olimpija Ljubljana, 6831, https://apiv2.apifootball.com/badges/6831_nk-olimpija-ljubljana.png, 590
+Celje, 6835, https://apiv2.apifootball.com/badges/6835_celje.png, 590
+Mura, 6939, https://apiv2.apifootball.com/badges/6939_mura.png, 590
+Real Sociedad, 7101, https://apiv2.apifootball.com/badges/7101_real-sociedad.png, 590
+Villarreal, 7107, https://apiv2.apifootball.com/badges/7107_villarreal.png, 590
+Granada CF, 7110, https://apiv2.apifootball.com/badges/7110_granada-cf.png, 590
+St. Gallen, 7394, https://apiv2.apifootball.com/badges/7394_st.-gallen.png, 590
+Basel, 7401, https://apiv2.apifootball.com/badges/7401_basel.png, 590
+Servette Geneve FC, 7403, https://apiv2.apifootball.com/badges/7403_servette-geneve-fc.png, 590
+Galatasaray, 7606, https://apiv2.apifootball.com/badges/7606_galatasaray.png, 590
+Sivasspor, 7610, https://apiv2.apifootball.com/badges/7610_sivasspor.png, 590
+Alanyaspor, 7613, https://apiv2.apifootball.com/badges/7613_alanyaspor.png, 590
+Besiktas, 7614, https://apiv2.apifootball.com/badges/7614_besiktas.png, 590
+FK Zorya Luhansk, 7768, https://apiv2.apifootball.com/badges/7768_fk-zorya-luhansk.png, 590
+Desna, 7776, https://apiv2.apifootball.com/badges/7776_desna.png, 590
+Kolos Kovalyovka, 7791, https://apiv2.apifootball.com/badges/7791_kolos-kovalyovka.png, 590
+Everton U18, 12899, https://apiv2.apifootball.com/badges/12899_everton-u18.png, 10101
+Chelsea U18, 13046, https://apiv2.apifootball.com/badges/13046_chelsea-u18.png, 10101
+Leicester U18, 13051, https://apiv2.apifootball.com/badges/13051_leicester-u18.png, 10101
+West Brom U18, 13057, https://apiv2.apifootball.com/badges/13057_west-brom-u18.png, 10101
+Arsenal U18, 13058, https://apiv2.apifootball.com/badges/13058_arsenal-u18.png, 10101
+Tottenham U18, 13060, https://apiv2.apifootball.com/badges/13060_tottenham-u18.png, 10101
+Aston Villa U18, 13062, https://apiv2.apifootball.com/badges/13062_aston-villa-u18.png, 10101
+West Ham U18, 13063, https://apiv2.apifootball.com/badges/13063_west-ham-u18.png, 10101
+Liverpool U18, 13068, https://apiv2.apifootball.com/badges/13068_liverpool-u18.png, 10101
+Newcastle Utd U18, 13069, https://apiv2.apifootball.com/badges/13069_newcastle-utd-u18.png, 10101
+, 19702, https://apiv2.apifootball.com/badges/19702_.png, 10101
+Ipswich U18, 19710, https://apiv2.apifootball.com/badges/19710_ipswich-u18.png, 10101
+Ermis, 2129, https://apiv2.apifootball.com/badges/2129_ermis.png, 114
+AEL Limassol, 2130, https://apiv2.apifootball.com/badges/2130_ael-limassol.png, 114
+Ol. Nicosia, 2131, https://apiv2.apifootball.com/badges/2131_ol.-nicosia.png, 114
+Nea Salamis, 2132, https://apiv2.apifootball.com/badges/2132_nea-salamis.png, 114
+Doxa, 2134, https://apiv2.apifootball.com/badges/2134_doxa.png, 114
+Paphos, 2135, https://apiv2.apifootball.com/badges/2135_paphos.png, 114
+AEK Larnaca, 2138, https://apiv2.apifootball.com/badges/2138_aek-larnaca.png, 114
+Achnas, 2139, https://apiv2.apifootball.com/badges/2139_achnas.png, 114
+Paralimni, 2146, https://apiv2.apifootball.com/badges/2146_paralimni.png, 114
+Karmiotissa (Cyp), 2149, https://apiv2.apifootball.com/badges/2149_karmiotissa-(cyp).png, 114
+Trencin, 6740, https://apiv2.apifootball.com/badges/6740_trencin.png, 443
+Trnava, 6741, https://apiv2.apifootball.com/badges/6741_trnava.png, 443
+Ruzomberok, 6742, https://apiv2.apifootball.com/badges/6742_ruzomberok.png, 443
+Michalovce, 6744, https://apiv2.apifootball.com/badges/6744_michalovce.png, 443
+Nitra, 6746, https://apiv2.apifootball.com/badges/6746_nitra.png, 443
+Senica, 6749, https://apiv2.apifootball.com/badges/6749_senica.png, 443
+Zilina, 6750, https://apiv2.apifootball.com/badges/6750_zilina.png, 443
+Z. Moravce, 6751, https://apiv2.apifootball.com/badges/6751_z.-moravce.png, 443
+Sered, 6752, https://apiv2.apifootball.com/badges/6752_sered.png, 443
+Pohronie, 6767, https://apiv2.apifootball.com/badges/6767_pohronie.png, 443
+Mouscron, 1103, https://apiv2.apifootball.com/badges/1103_mouscron.png, 51
+Waasland-Beveren, 1106, https://apiv2.apifootball.com/badges/1106_waasland-beveren.png, 51
+St. Truiden, 1108, https://apiv2.apifootball.com/badges/1108_st.-truiden.png, 51
+Kortrijk, 1109, https://apiv2.apifootball.com/badges/1109_kortrijk.png, 51
+Genk, 1110, https://apiv2.apifootball.com/badges/1110_genk.png, 51
+Oostende, 1112, https://apiv2.apifootball.com/badges/1112_oostende.png, 51
+Waregem, 1113, https://apiv2.apifootball.com/badges/1113_waregem.png, 51
+KV Mechelen, 1114, https://apiv2.apifootball.com/badges/1114_kv-mechelen.png, 51
+Eupen, 1115, https://apiv2.apifootball.com/badges/1115_eupen.png, 51
+Anderlecht, 1116, https://apiv2.apifootball.com/badges/1116_anderlecht.png, 51
+Cercle Brugge KSV, 1120, https://apiv2.apifootball.com/badges/1120_cercle-brugge-ksv.png, 51
+Leuven, 1121, https://apiv2.apifootball.com/badges/1121_leuven.png, 51
+Beerschot Wilrijk, 1125, https://apiv2.apifootball.com/badges/1125_beerschot-wilrijk.png, 51
+Seraing, 1138, https://apiv2.apifootball.com/badges/1138_seraing.png, 51
+Betis, 7091, https://apiv2.apifootball.com/badges/7091_betis.png, 468
+Celta Vigo, 7095, https://apiv2.apifootball.com/badges/7095_celta-vigo.png, 468
+Eibar, 7096, https://apiv2.apifootball.com/badges/7096_eibar.png, 468
+Levante, 7097, https://apiv2.apifootball.com/badges/7097_levante.png, 468
+Getafe, 7100, https://apiv2.apifootball.com/badges/7100_getafe.png, 468
+Ath Bilbao, 7104, https://apiv2.apifootball.com/badges/7104_ath-bilbao.png, 468
+Alaves, 7108, https://apiv2.apifootball.com/badges/7108_alaves.png, 468
+Valencia, 7109, https://apiv2.apifootball.com/badges/7109_valencia.png, 468
+Osasuna, 7113, https://apiv2.apifootball.com/badges/7113_osasuna.png, 468
+Valladolid, 7115, https://apiv2.apifootball.com/badges/7115_valladolid.png, 468
+Huesca, 7125, https://apiv2.apifootball.com/badges/7125_huesca.png, 468
+Cadiz CF, 7126, https://apiv2.apifootball.com/badges/7126_cadiz-cf.png, 468
+Elche, 7173, https://apiv2.apifootball.com/badges/7173_elche.png, 468
+Beitar Tel Aviv, 4120, https://apiv2.apifootball.com/badges/4120_beitar-tel-aviv.png, 258
+Hap. Ramat Gan, 4121, https://apiv2.apifootball.com/badges/4121_hap.-ramat-gan.png, 258
+Hapoel Afula, 4122, https://apiv2.apifootball.com/badges/4122_hapoel-afula.png, 258
+Ramat Hasharon, 4123, https://apiv2.apifootball.com/badges/4123_ramat-hasharon.png, 258
+Hapoel Petah Tikva, 4125, https://apiv2.apifootball.com/badges/4125_hapoel-petah-tikva.png, 258
+H. Ironi Rishon, 4126, https://apiv2.apifootball.com/badges/4126_h.-ironi-rishon.png, 258
+Hapoel Katamon, 4129, https://apiv2.apifootball.com/badges/4129_hapoel-katamon.png, 258
+H. Nazareth, 4133, https://apiv2.apifootball.com/badges/4133_h.-nazareth.png, 258
+M. Nazareth, 4134, https://apiv2.apifootball.com/badges/4134_m.-nazareth.png, 258
+H. Raanana, 4145, https://apiv2.apifootball.com/badges/4145_h.-raanana.png, 258
+Hapoel Iksal Imad, 4151, https://apiv2.apifootball.com/badges/4151_hapoel-iksal-imad.png, 258
+H. Akko, 4154, https://apiv2.apifootball.com/badges/4154_h.-akko.png, 258
+Kfar Kasem, 4157, https://apiv2.apifootball.com/badges/4157_kfar-kasem.png, 258
+Hapoel Umm al-Fahm, 4158, https://apiv2.apifootball.com/badges/4158_hapoel-umm-al-fahm.png, 258
+Hapoel Kfar Shalem, 4160, https://apiv2.apifootball.com/badges/4160_hapoel-kfar-shalem.png, 258
+Nes Tziona (Isr), 9182, https://apiv2.apifootball.com/badges/9182_nes-tziona-(isr).png, 258
+Din. Bucuresti (Rou), 6300, https://apiv2.apifootball.com/badges/6300_din.-bucuresti-(rou).png, 400
+FC Viitorul, 6301, https://apiv2.apifootball.com/badges/6301_fc-viitorul.png, 400
+Sepsi, 6302, https://apiv2.apifootball.com/badges/6302_sepsi.png, 400
+CS U. Craiova, 6304, https://apiv2.apifootball.com/badges/6304_cs-u.-craiova.png, 400
+Gaz Metan Medias, 6307, https://apiv2.apifootball.com/badges/6307_gaz-metan-medias.png, 400
+Astra, 6309, https://apiv2.apifootball.com/badges/6309_astra.png, 400
+Voluntari, 6310, https://apiv2.apifootball.com/badges/6310_voluntari.png, 400
+Poli Iasi, 6312, https://apiv2.apifootball.com/badges/6312_poli-iasi.png, 400
+Chindia Targoviste, 6314, https://apiv2.apifootball.com/badges/6314_chindia-targoviste.png, 400
+AFC Hermannstadt, 6317, https://apiv2.apifootball.com/badges/6317_afc-hermannstadt.png, 400
+UTA Arad, 6323, https://apiv2.apifootball.com/badges/6323_uta-arad.png, 400
+Clinceni, 6327, https://apiv2.apifootball.com/badges/6327_clinceni.png, 400
+Arges Pitesti, 10428, https://apiv2.apifootball.com/badges/10428_arges-pitesti.png, 400
+Hapoel Hadera, 4127, https://apiv2.apifootball.com/badges/4127_hapoel-hadera.png, 10087
+Hapoel Tel Aviv, 4128, https://apiv2.apifootball.com/badges/4128_hapoel-tel-aviv.png, 10087
+Hapoel Kfar-Saba, 4131, https://apiv2.apifootball.com/badges/4131_hapoel-kfar-saba.png, 10087
+Yehuda, 4136, https://apiv2.apifootball.com/badges/4136_yehuda.png, 10087
+Beitar Jerusalem, 4138, https://apiv2.apifootball.com/badges/4138_beitar-jerusalem.png, 10087
+Maccabi Petah Tikva, 4139, https://apiv2.apifootball.com/badges/4139_maccabi-petah-tikva.png, 10087
+Shmona, 4140, https://apiv2.apifootball.com/badges/4140_shmona.png, 10087
+Hapoel Haifa, 4141, https://apiv2.apifootball.com/badges/4141_hapoel-haifa.png, 10087
+Moadon Sport Ashdod, 4142, https://apiv2.apifootball.com/badges/4142_moadon-sport-ashdod.png, 10087
+Sakhnin, 4143, https://apiv2.apifootball.com/badges/4143_sakhnin.png, 10087
+Netanya, 4149, https://apiv2.apifootball.com/badges/4149_netanya.png, 10087
+St Etienne, 3025, https://apiv2.apifootball.com/badges/3025_st-etienne.png, 176
+Lyon, 3026, https://apiv2.apifootball.com/badges/3026_lyon.png, 176
+Metz, 3027, https://apiv2.apifootball.com/badges/3027_metz.png, 176
+Dijon, 3030, https://apiv2.apifootball.com/badges/3030_dijon.png, 176
+Nantes, 3031, https://apiv2.apifootball.com/badges/3031_nantes.png, 176
+Montpellier, 3034, https://apiv2.apifootball.com/badges/3034_montpellier.png, 176
+Strasbourg, 3036, https://apiv2.apifootball.com/badges/3036_strasbourg.png, 176
+Angers, 3037, https://apiv2.apifootball.com/badges/3037_angers.png, 176
+Bordeaux, 3038, https://apiv2.apifootball.com/badges/3038_bordeaux.png, 176
+Monaco, 3039, https://apiv2.apifootball.com/badges/3039_monaco.png, 176
+Lorient, 3044, https://apiv2.apifootball.com/badges/3044_lorient.png, 176
+Nimes, 3049, https://apiv2.apifootball.com/badges/3049_nimes.png, 176
+Paris FC, 3055, https://apiv2.apifootball.com/badges/3055_paris-fc.png, 176
+Lens, 3060, https://apiv2.apifootball.com/badges/3060_lens.png, 176
+Grenoble, 3078, https://apiv2.apifootball.com/badges/3078_grenoble.png, 176
+Tammeka, 2832, https://apiv2.apifootball.com/badges/2832_tammeka.png, 158
+Parnu JK Vaprus, 2833, https://apiv2.apifootball.com/badges/2833_parnu-jk-vaprus.png, 158
+Paide, 2836, https://apiv2.apifootball.com/badges/2836_paide.png, 158
+Tulevik, 2837, https://apiv2.apifootball.com/badges/2837_tulevik.png, 158
+Kalju, 2838, https://apiv2.apifootball.com/badges/2838_kalju.png, 158
+Narva, 2839, https://apiv2.apifootball.com/badges/2839_narva.png, 158
+Levadia, 2840, https://apiv2.apifootball.com/badges/2840_levadia.png, 158
+Kuressaare, 2843, https://apiv2.apifootball.com/badges/2843_kuressaare.png, 158
+Legion, 2882, https://apiv2.apifootball.com/badges/2882_legion.png, 158
+Victoria Rosport, 4696, https://apiv2.apifootball.com/badges/4696_victoria-rosport.png, 310
+Differdange, 4697, https://apiv2.apifootball.com/badges/4697_differdange.png, 310
+UNA Strassen, 4698, https://apiv2.apifootball.com/badges/4698_una-strassen.png, 310
+Dudelange, 4699, https://apiv2.apifootball.com/badges/4699_dudelange.png, 310
+Jeunesse Esch, 4703, https://apiv2.apifootball.com/badges/4703_jeunesse-esch.png, 310
+Mondorf, 4705, https://apiv2.apifootball.com/badges/4705_mondorf.png, 310
+Racing Luxembourg, 4706, https://apiv2.apifootball.com/badges/4706_racing-luxembourg.png, 310
+Rodange, 4707, https://apiv2.apifootball.com/badges/4707_rodange.png, 310
+Hostert, 4708, https://apiv2.apifootball.com/badges/4708_hostert.png, 310
+Hesperange, 4710, https://apiv2.apifootball.com/badges/4710_hesperange.png, 310
+Wiltz, 4722, https://apiv2.apifootball.com/badges/4722_wiltz.png, 310
+Ettelbruck, 4723, https://apiv2.apifootball.com/badges/4723_ettelbruck.png, 310
+Ballymena, 5221, https://apiv2.apifootball.com/badges/5221_ballymena.png, 354
+Warrenpoint, 5222, https://apiv2.apifootball.com/badges/5222_warrenpoint.png, 354
+C. Rangers, 5223, https://apiv2.apifootball.com/badges/5223_c.-rangers.png, 354
+Glenavon, 5224, https://apiv2.apifootball.com/badges/5224_glenavon.png, 354
+Glentoran, 5226, https://apiv2.apifootball.com/badges/5226_glentoran.png, 354
+Dungannon, 5227, https://apiv2.apifootball.com/badges/5227_dungannon.png, 354
+Cliftonville, 5228, https://apiv2.apifootball.com/badges/5228_cliftonville.png, 354
+Crusaders, 5231, https://apiv2.apifootball.com/badges/5231_crusaders.png, 354
+Larne, 5356, https://apiv2.apifootball.com/badges/5356_larne.png, 354
+Portadown, 5365, https://apiv2.apifootball.com/badges/5365_portadown.png, 354
+Puskas Academy, 3643, https://apiv2.apifootball.com/badges/3643_puskas-academy.png, 224
+Paks, 3648, https://apiv2.apifootball.com/badges/3648_paks.png, 224
+DVTK, 3650, https://apiv2.apifootball.com/badges/3650_dvtk.png, 224
+Mezokovesd-Zsory, 3651, https://apiv2.apifootball.com/badges/3651_mezokovesd-zsory.png, 224
+Ujpest, 3653, https://apiv2.apifootball.com/badges/3653_ujpest.png, 224
+MTK Budapest, 3659, https://apiv2.apifootball.com/badges/3659_mtk-budapest.png, 224
+Budafoki, 3661, https://apiv2.apifootball.com/badges/3661_budafoki.png, 224
+Zalaegerszegi, 3668, https://apiv2.apifootball.com/badges/3668_zalaegerszegi.png, 224
+Kisvarda, 3670, https://apiv2.apifootball.com/badges/3670_kisvarda.png, 224
+Levski, 1670, https://apiv2.apifootball.com/badges/1670_levski.png, 78
+Vereya, 1671, https://apiv2.apifootball.com/badges/1671_vereya.png, 78
+Beroe, 1672, https://apiv2.apifootball.com/badges/1672_beroe.png, 78
+Slavia Sofia, 1674, https://apiv2.apifootball.com/badges/1674_slavia-sofia.png, 78
+Botev Plovdiv, 1676, https://apiv2.apifootball.com/badges/1676_botev-plovdiv.png, 78
+Bistritsa, 1677, https://apiv2.apifootball.com/badges/1677_bistritsa.png, 78
+Cherno More, 1678, https://apiv2.apifootball.com/badges/1678_cherno-more.png, 78
+Etar, 1679, https://apiv2.apifootball.com/badges/1679_etar.png, 78
+Botev Vratsa, 1685, https://apiv2.apifootball.com/badges/1685_botev-vratsa.png, 78
+Montana, 1691, https://apiv2.apifootball.com/badges/1691_montana.png, 78
+Tsarsko Selo, 1696, https://apiv2.apifootball.com/badges/1696_tsarsko-selo.png, 78
+Arda (Bul), 11167, https://apiv2.apifootball.com/badges/11167_arda-(bul).png, 78
+CSKA 1948 Sofia (Bul), 11184, https://apiv2.apifootball.com/badges/11184_cska-1948-sofia-(bul).png, 78
+Akranes, 3783, https://apiv2.apifootball.com/badges/3783_akranes.png, 232
+Hafnarfjordur, 3787, https://apiv2.apifootball.com/badges/3787_hafnarfjordur.png, 232
+Breidablik, 3788, https://apiv2.apifootball.com/badges/3788_breidablik.png, 232
+Stjarnan, 3790, https://apiv2.apifootball.com/badges/3790_stjarnan.png, 232
+Valur, 3809, https://apiv2.apifootball.com/badges/3809_valur.png, 232
+Vikingur Reykjavik, 3810, https://apiv2.apifootball.com/badges/3810_vikingur-reykjavik.png, 232
+KA Akureyri, 3813, https://apiv2.apifootball.com/badges/3813_ka-akureyri.png, 232
+Fylkir, 3838, https://apiv2.apifootball.com/badges/3838_fylkir.png, 232
+Kopavogur, 3840, https://apiv2.apifootball.com/badges/3840_kopavogur.png, 232
+Keflavik, 3841, https://apiv2.apifootball.com/badges/3841_keflavik.png, 232
+Leiknir, 3842, https://apiv2.apifootball.com/badges/3842_leiknir.png, 232
+Bohemians, 4077, https://apiv2.apifootball.com/badges/4077_bohemians.png, 253
+Finn Harps, 4078, https://apiv2.apifootball.com/badges/4078_finn-harps.png, 253
+Derry City, 4081, https://apiv2.apifootball.com/badges/4081_derry-city.png, 253
+St. Patricks, 4082, https://apiv2.apifootball.com/badges/4082_st.-patricks.png, 253
+Drogheda, 4083, https://apiv2.apifootball.com/badges/4083_drogheda.png, 253
+Sligo Rovers, 4084, https://apiv2.apifootball.com/badges/4084_sligo-rovers.png, 253
+Longford, 4091, https://apiv2.apifootball.com/badges/4091_longford.png, 253
+Waterford, 4096, https://apiv2.apifootball.com/badges/4096_waterford.png, 253
+Akhmat Grozny, 6412, https://apiv2.apifootball.com/badges/6412_akhmat-grozny.png, 407
+Ufa, 6414, https://apiv2.apifootball.com/badges/6414_ufa.png, 407
+Rubin Kazan, 6415, https://apiv2.apifootball.com/badges/6415_rubin-kazan.png, 407
+Ural, 6423, https://apiv2.apifootball.com/badges/6423_ural.png, 407
+Spartak Moscow, 6425, https://apiv2.apifootball.com/badges/6425_spartak-moscow.png, 407
+Arsenal Tula, 6426, https://apiv2.apifootball.com/badges/6426_arsenal-tula.png, 407
+R. Volgograd, 6431, https://apiv2.apifootball.com/badges/6431_r.-volgograd.png, 407
+FC Tambov, 6440, https://apiv2.apifootball.com/badges/6440_fc-tambov.png, 407
+FK Chimki Moskovska oblast, 6446, https://apiv2.apifootball.com/badges/6446_fk-chimki-moskovska-oblast.png, 407
+Sochi, 15591, https://apiv2.apifootball.com/badges/15591_sochi.png, 407
+Siroki Brijeg, 1456, https://apiv2.apifootball.com/badges/1456_siroki-brijeg.png, 63
+Zeljeznicar, 1460, https://apiv2.apifootball.com/badges/1460_zeljeznicar.png, 63
+Mladost DK, 1461, https://apiv2.apifootball.com/badges/1461_mladost-dk.png, 63
+Krupa, 1462, https://apiv2.apifootball.com/badges/1462_krupa.png, 63
+Radnik Bijeljina, 1464, https://apiv2.apifootball.com/badges/1464_radnik-bijeljina.png, 63
+Sloboda, 1465, https://apiv2.apifootball.com/badges/1465_sloboda.png, 63
+Sloga Simin Han, 1466, https://apiv2.apifootball.com/badges/1466_sloga-simin-han.png, 63
+Velez Mostar, 1479, https://apiv2.apifootball.com/badges/1479_velez-mostar.png, 63
+Olimpic Sarajevo, 1480, https://apiv2.apifootball.com/badges/1480_olimpic-sarajevo.png, 63
+Mariupol, 7765, https://apiv2.apifootball.com/badges/7765_mariupol.png, 523
+Oleksandriya, 7769, https://apiv2.apifootball.com/badges/7769_oleksandriya.png, 523
+Olimpik Donetsk, 7771, https://apiv2.apifootball.com/badges/7771_olimpik-donetsk.png, 523
+Vorskla Poltava, 7773, https://apiv2.apifootball.com/badges/7773_vorskla-poltava.png, 523
+Rukh Vynnyky, 7787, https://apiv2.apifootball.com/badges/7787_rukh-vynnyky.png, 523
+Inhulets, 7792, https://apiv2.apifootball.com/badges/7792_inhulets.png, 523
+Dnipro-1, 7794, https://apiv2.apifootball.com/badges/7794_dnipro-1.png, 523
+Lviv, 7797, https://apiv2.apifootball.com/badges/7797_lviv.png, 523
+Minaj (Ukr), 11179, https://apiv2.apifootball.com/badges/11179_minaj-(ukr).png, 523
+Everton, 2612, https://apiv2.apifootball.com/badges/2612_everton.png, 148
+Brighton, 2613, https://apiv2.apifootball.com/badges/2613_brighton.png, 148
+Southampton, 2614, https://apiv2.apifootball.com/badges/2614_southampton.png, 148
+Crystal Palace, 2619, https://apiv2.apifootball.com/badges/2619_crystal-palace.png, 148
+West Ham, 2620, https://apiv2.apifootball.com/badges/2620_west-ham.png, 148
+West Brom, 2625, https://apiv2.apifootball.com/badges/2625_west-brom.png, 148
+Burnley, 2629, https://apiv2.apifootball.com/badges/2629_burnley.png, 148
+Newcastle, 2630, https://apiv2.apifootball.com/badges/2630_newcastle.png, 148
+Aston Villa, 2632, https://apiv2.apifootball.com/badges/2632_aston-villa.png, 148
+Fulham, 2639, https://apiv2.apifootball.com/badges/2639_fulham.png, 148
+Wolves, 2646, https://apiv2.apifootball.com/badges/2646_wolves.png, 148
+Leeds, 2653, https://apiv2.apifootball.com/badges/2653_leeds.png, 148
+Sheffield Utd, 2654, https://apiv2.apifootball.com/badges/2654_sheffield-utd.png, 148
+Ross County, 6579, https://apiv2.apifootball.com/badges/6579_ross-county.png, 423
+Kilmarnock, 6581, https://apiv2.apifootball.com/badges/6581_kilmarnock.png, 423
+Dundee FC, 6582, https://apiv2.apifootball.com/badges/6582_dundee-fc.png, 423
+Hamilton, 6583, https://apiv2.apifootball.com/badges/6583_hamilton.png, 423
+Hibernian, 6585, https://apiv2.apifootball.com/badges/6585_hibernian.png, 423
+St Johnstone, 6587, https://apiv2.apifootball.com/badges/6587_st-johnstone.png, 423
+Dundee Utd, 6591, https://apiv2.apifootball.com/badges/6591_dundee-utd.png, 423
+Dunfermline, 6593, https://apiv2.apifootball.com/badges/6593_dunfermline.png, 423
+Livingston, 6594, https://apiv2.apifootball.com/badges/6594_livingston.png, 423
+St. Mirren, 6598, https://apiv2.apifootball.com/badges/6598_st.-mirren.png, 423
+Raith, 6607, https://apiv2.apifootball.com/badges/6607_raith.png, 423
+Portimonense, 6103, https://apiv2.apifootball.com/badges/6103_portimonense.png, 391
+Guimaraes, 6106, https://apiv2.apifootball.com/badges/6106_guimaraes.png, 391
+Ferreira, 6107, https://apiv2.apifootball.com/badges/6107_ferreira.png, 391
+Boavista, 6111, https://apiv2.apifootball.com/badges/6111_boavista.png, 391
+Belenenses, 6113, https://apiv2.apifootball.com/badges/6113_belenenses.png, 391
+Moreirense, 6114, https://apiv2.apifootball.com/badges/6114_moreirense.png, 391
+Maritimo, 6115, https://apiv2.apifootball.com/badges/6115_maritimo.png, 391
+Tondela, 6116, https://apiv2.apifootball.com/badges/6116_tondela.png, 391
+Santa Clara, 6121, https://apiv2.apifootball.com/badges/6121_santa-clara.png, 391
+Nacional, 6130, https://apiv2.apifootball.com/badges/6130_nacional.png, 391
+Famalicao, 6136, https://apiv2.apifootball.com/badges/6136_famalicao.png, 391
+Gil Vicente, 6139, https://apiv2.apifootball.com/badges/6139_gil-vicente.png, 391
+SC Farense, 6199, https://apiv2.apifootball.com/badges/6199_sc-farense.png, 391
+Sutjeska, 4971, https://apiv2.apifootball.com/badges/4971_sutjeska.png, 334
+Zeta, 4972, https://apiv2.apifootball.com/badges/4972_zeta.png, 334
+Decic, 4973, https://apiv2.apifootball.com/badges/4973_decic.png, 334
+Rudar, 4974, https://apiv2.apifootball.com/badges/4974_rudar.png, 334
+Iskra, 4975, https://apiv2.apifootball.com/badges/4975_iskra.png, 334
+OFK Petrovac, 4976, https://apiv2.apifootball.com/badges/4976_ofk-petrovac.png, 334
+Mladost Podgorica, 4978, https://apiv2.apifootball.com/badges/4978_mladost-podgorica.png, 334
+Mladost Ljeskopolje, 4982, https://apiv2.apifootball.com/badges/4982_mladost-ljeskopolje.png, 334
+Jezero, 4985, https://apiv2.apifootball.com/badges/4985_jezero.png, 334
+Aluminij, 6828, https://apiv2.apifootball.com/badges/6828_aluminij.png, 453
+ND Gorica, 6829, https://apiv2.apifootball.com/badges/6829_nd-gorica.png, 453
+Domzale, 6832, https://apiv2.apifootball.com/badges/6832_domzale.png, 453
+Maribor, 6833, https://apiv2.apifootball.com/badges/6833_maribor.png, 453
+NK Bravo, 6936, https://apiv2.apifootball.com/badges/6936_nk-bravo.png, 453
+Tabor Sezana, 6938, https://apiv2.apifootball.com/badges/6938_tabor-sezana.png, 453
+Koper, 6943, https://apiv2.apifootball.com/badges/6943_koper.png, 453
+Torino, 4170, https://apiv2.apifootball.com/badges/4170_torino.png, 262
+Cagliari, 4171, https://apiv2.apifootball.com/badges/4171_cagliari.png, 262
+Crotone, 4172, https://apiv2.apifootball.com/badges/4172_crotone.png, 262
+Fiorentina, 4173, https://apiv2.apifootball.com/badges/4173_fiorentina.png, 262
+Sassuolo, 4175, https://apiv2.apifootball.com/badges/4175_sassuolo.png, 262
+Sampdoria, 4176, https://apiv2.apifootball.com/badges/4176_sampdoria.png, 262
+Genoa, 4179, https://apiv2.apifootball.com/badges/4179_genoa.png, 262
+Udinese, 4180, https://apiv2.apifootball.com/badges/4180_udinese.png, 262
+Benevento, 4182, https://apiv2.apifootball.com/badges/4182_benevento.png, 262
+Bologna, 4185, https://apiv2.apifootball.com/badges/4185_bologna.png, 262
+Verona, 4188, https://apiv2.apifootball.com/badges/4188_verona.png, 262
+Parma, 4192, https://apiv2.apifootball.com/badges/4192_parma.png, 262
+Spezia, 4206, https://apiv2.apifootball.com/badges/4206_spezia.png, 262
+Vaduz, 4652, https://apiv2.apifootball.com/badges/4652_vaduz.png, 491
+Lugano, 7392, https://apiv2.apifootball.com/badges/7392_lugano.png, 491
+Luzern, 7393, https://apiv2.apifootball.com/badges/7393_luzern.png, 491
+Sion, 7397, https://apiv2.apifootball.com/badges/7397_sion.png, 491
+Lausanne, 7398, https://apiv2.apifootball.com/badges/7398_lausanne.png, 491
+Zurich, 7400, https://apiv2.apifootball.com/badges/7400_zurich.png, 491
+Asteras Tripolis, 3424, https://apiv2.apifootball.com/badges/3424_asteras-tripolis.png, 209
+Lamia, 3427, https://apiv2.apifootball.com/badges/3427_lamia.png, 209
+Platanias FC, 3428, https://apiv2.apifootball.com/badges/3428_platanias-fc.png, 209
+Panetolikos, 3429, https://apiv2.apifootball.com/badges/3429_panetolikos.png, 209
+Smyrnis, 3430, https://apiv2.apifootball.com/badges/3430_smyrnis.png, 209
+Xanthi FC, 3431, https://apiv2.apifootball.com/badges/3431_xanthi-fc.png, 209
+Atromitos, 3432, https://apiv2.apifootball.com/badges/3432_atromitos.png, 209
+Panathinaikos, 3433, https://apiv2.apifootball.com/badges/3433_panathinaikos.png, 209
+Giannina, 3435, https://apiv2.apifootball.com/badges/3435_giannina.png, 209
+AEL Larissa, 3437, https://apiv2.apifootball.com/badges/3437_ael-larissa.png, 209
+Volos NFC, 3486, https://apiv2.apifootball.com/badges/3486_volos-nfc.png, 209
+Fenerbahce, 7603, https://apiv2.apifootball.com/badges/7603_fenerbahce.png, 511
+Kayserispor, 7604, https://apiv2.apifootball.com/badges/7604_kayserispor.png, 511
+Trabzonspor, 7605, https://apiv2.apifootball.com/badges/7605_trabzonspor.png, 511
+Antalyaspor, 7608, https://apiv2.apifootball.com/badges/7608_antalyaspor.png, 511
+Konyaspor, 7611, https://apiv2.apifootball.com/badges/7611_konyaspor.png, 511
+Genclerbirligi, 7617, https://apiv2.apifootball.com/badges/7617_genclerbirligi.png, 511
+Yeni Malatyaspor, 7618, https://apiv2.apifootball.com/badges/7618_yeni-malatyaspor.png, 511
+Kasimpasa, 7619, https://apiv2.apifootball.com/badges/7619_kasimpasa.png, 511
+Goztepe, 7620, https://apiv2.apifootball.com/badges/7620_goztepe.png, 511
+Ankaragucu, 7621, https://apiv2.apifootball.com/badges/7621_ankaragucu.png, 511
+Rizespor, 7623, https://apiv2.apifootball.com/badges/7623_rizespor.png, 511
+Erzurum BB, 7629, https://apiv2.apifootball.com/badges/7629_erzurum-bb.png, 511
+Denizlispor, 7630, https://apiv2.apifootball.com/badges/7630_denizlispor.png, 511
+Gaziantep, 7631, https://apiv2.apifootball.com/badges/7631_gaziantep.png, 511
+Karagumruk, 7645, https://apiv2.apifootball.com/badges/7645_karagumruk.png, 511
+Hatayspor, 7665, https://apiv2.apifootball.com/badges/7665_hatayspor.png, 511
+Cukaricki, 6679, https://apiv2.apifootball.com/badges/6679_cukaricki.png, 434
+FK Vozdovac, 6680, https://apiv2.apifootball.com/badges/6680_fk-vozdovac.png, 434
+Mladost, 6681, https://apiv2.apifootball.com/badges/6681_mladost.png, 434
+Macva, 6682, https://apiv2.apifootball.com/badges/6682_macva.png, 434
+Radnicki Nis, 6683, https://apiv2.apifootball.com/badges/6683_radnicki-nis.png, 434
+Napredak, 6684, https://apiv2.apifootball.com/badges/6684_napredak.png, 434
+Radnik, 6685, https://apiv2.apifootball.com/badges/6685_radnik.png, 434
+Sp. Subotica, 6686, https://apiv2.apifootball.com/badges/6686_sp.-subotica.png, 434
+Backa, 6687, https://apiv2.apifootball.com/badges/6687_backa.png, 434
+Javor, 6688, https://apiv2.apifootball.com/badges/6688_javor.png, 434
+Rad Beograd, 6691, https://apiv2.apifootball.com/badges/6691_rad-beograd.png, 434
+Proleter, 6695, https://apiv2.apifootball.com/badges/6695_proleter.png, 434
+Metalac, 6700, https://apiv2.apifootball.com/badges/6700_metalac.png, 434
+FK Indjija, 6701, https://apiv2.apifootball.com/badges/6701_fk-indjija.png, 434
+Novi Pazar, 6704, https://apiv2.apifootball.com/badges/6704_novi-pazar.png, 434
+Radnicki 1923, 6708, https://apiv2.apifootball.com/badges/6708_radnicki-1923.png, 434
+Zlatibor Cajetina, 6709, https://apiv2.apifootball.com/badges/6709_zlatibor-cajetina.png, 434
+Aalborg, 2331, https://apiv2.apifootball.com/badges/2331_aalborg.png, 130
+Odense, 2332, https://apiv2.apifootball.com/badges/2332_odense.png, 130
+Horsens, 2333, https://apiv2.apifootball.com/badges/2333_horsens.png, 130
+Lyngby, 2335, https://apiv2.apifootball.com/badges/2335_lyngby.png, 130
+Silkeborg, 2340, https://apiv2.apifootball.com/badges/2340_silkeborg.png, 130
+Nordsjaelland, 2342, https://apiv2.apifootball.com/badges/2342_nordsjaelland.png, 130
+Randers FC, 2343, https://apiv2.apifootball.com/badges/2343_randers-fc.png, 130
+Brondby, 2344, https://apiv2.apifootball.com/badges/2344_brondby.png, 130
+Vejle, 2348, https://apiv2.apifootball.com/badges/2348_vejle.png, 130
+Sturm Graz, 925, https://apiv2.apifootball.com/badges/925_sturm-graz.png, 33
+Austria Vienna, 927, https://apiv2.apifootball.com/badges/927_austria-vienna.png, 33
+St. Polten, 929, https://apiv2.apifootball.com/badges/929_st.-polten.png, 33
+Altach, 931, https://apiv2.apifootball.com/badges/931_altach.png, 33
+Admira, 933, https://apiv2.apifootball.com/badges/933_admira.png, 33
+Ried, 935, https://apiv2.apifootball.com/badges/935_ried.png, 33
+Wattens, 937, https://apiv2.apifootball.com/badges/937_wattens.png, 33
+HJK, 2946, https://apiv2.apifootball.com/badges/2946_hjk.png, 166
+Lahti, 2950, https://apiv2.apifootball.com/badges/2950_lahti.png, 166
+HIFK, 2951, https://apiv2.apifootball.com/badges/2951_hifk.png, 166
+Mariehamn, 2952, https://apiv2.apifootball.com/badges/2952_mariehamn.png, 166
+Ilves, 2953, https://apiv2.apifootball.com/badges/2953_ilves.png, 166
+SJK, 2956, https://apiv2.apifootball.com/badges/2956_sjk.png, 166
+Inter Turku, 2957, https://apiv2.apifootball.com/badges/2957_inter-turku.png, 166
+AC Oulu, 2958, https://apiv2.apifootball.com/badges/2958_ac-oulu.png, 166
+Haka, 2963, https://apiv2.apifootball.com/badges/2963_haka.png, 166
+Honka, 2964, https://apiv2.apifootball.com/badges/2964_honka.png, 166
+KTP, 2972, https://apiv2.apifootball.com/badges/2972_ktp.png, 166
+Zhodino, 1056, https://apiv2.apifootball.com/badges/1056_zhodino.png, 47
+FC Minsk, 1057, https://apiv2.apifootball.com/badges/1057_fc-minsk.png, 47
+Neman, 1058, https://apiv2.apifootball.com/badges/1058_neman.png, 47
+Slavia Mozyr, 1059, https://apiv2.apifootball.com/badges/1059_slavia-mozyr.png, 47
+Vitebsk, 1060, https://apiv2.apifootball.com/badges/1060_vitebsk.png, 47
+Isloch Minsk, 1063, https://apiv2.apifootball.com/badges/1063_isloch-minsk.png, 47
+Din. Minsk, 1064, https://apiv2.apifootball.com/badges/1064_din.-minsk.png, 47
+FC Gomel, 1065, https://apiv2.apifootball.com/badges/1065_fc-gomel.png, 47
+Slutsk, 1067, https://apiv2.apifootball.com/badges/1067_slutsk.png, 47
+Shakhtyor Soligorsk, 1069, https://apiv2.apifootball.com/badges/1069_shakhtyor-soligorsk.png, 47
+Energetik-BGU, 1071, https://apiv2.apifootball.com/badges/1071_energetik-bgu.png, 47
+Smorgon, 1075, https://apiv2.apifootball.com/badges/1075_smorgon.png, 47
+Sputnik, 1098, https://apiv2.apifootball.com/badges/1098_sputnik.png, 47
+Rukh Brest, 14668, https://apiv2.apifootball.com/badges/14668_rukh-brest.png, 47
